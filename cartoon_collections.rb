@@ -1,7 +1,7 @@
 def roll_call_dwarves(coll)# code an argument here
   # Your code here
   coll.each_with_index {|name,ind|
-    puts "#{ind} #{name}"
+    puts "#{ind+1} #{name}"
   }
 end
 
