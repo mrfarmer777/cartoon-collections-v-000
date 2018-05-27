@@ -32,5 +32,6 @@ def find_the_cheese(coll)
         return type
       end
     }
+    nil
   }
 end
