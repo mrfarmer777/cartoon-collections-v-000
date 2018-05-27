@@ -31,7 +31,7 @@ def find_the_cheese(coll)
       if item==type
         return type
       end
-    }  
+    }
   }
   nil
 end
